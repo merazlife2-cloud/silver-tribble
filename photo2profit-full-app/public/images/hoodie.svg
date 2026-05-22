@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#fff"/>
+  <path d="M245 240 L325 170 H475 L555 240 L665 315 L590 430 L535 375 L535 615 H265 V375 L210 430 L135 315 Z" fill="#efe8dc" stroke="#cfc3b5" stroke-width="8"/>
+  <path d="M330 175 C345 110 455 110 470 175" fill="none" stroke="#cfc3b5" stroke-width="20" stroke-linecap="round"/>
+  <rect x="278" y="320" width="244" height="150" rx="8" fill="#fbfbfb" stroke="#d9d9d9"/>
+  <text x="400" y="415" text-anchor="middle" font-family="Georgia" font-size="58" fill="#111">VOGUE</text>
+  <path d="M365 335 C380 300 425 303 440 337 C428 380 375 380 365 335Z" fill="#111"/>
+  <path d="M330 230 H470 M272 300 H528 M270 565 H530" stroke="#d8cfc4" stroke-width="8"/>
+</svg>
